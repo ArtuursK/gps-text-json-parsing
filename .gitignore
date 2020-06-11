@@ -1,0 +1,13 @@
+/.gradle/
+.idea/
+
+/bin/
+/build/
+/target/
+.settings
+/.classpath
+/.project
+out/
+report.json
+
+/src/main/resources/coordinates.json
